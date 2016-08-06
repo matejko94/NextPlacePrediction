@@ -1,10 +1,10 @@
 
 import json
-import math
+
 
 #Constants
-fileName = 'data/test.json';
-
+fileLjubljana= 'data/test.json';
+fileLondon = 'data/london.json';
 
 #load raw json file and return array structure with dictionary
 def loadTestDataset(fileName):

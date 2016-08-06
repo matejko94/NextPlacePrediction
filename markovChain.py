@@ -3,8 +3,8 @@ from geopy.distance import vincenty
 import numpy as np
                         #ijs,dom
 statPointsLjubljana=[(46.042324, 14.488047),(46.043446, 14.485427)]
-
-statPointsLondon=[(46.042324, 14.488047),(46.043446, 14.485427)]
+                    #wse,starbucks, pubs, home
+statPointsLondon=[(51.42039,-0.21110),(51.42112,-0.20765),(51.42003	-0.20425),(51.43007,	-0.19835)]
 distance=50
 
 
